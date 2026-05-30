@@ -74,25 +74,25 @@ This project was developed by the 5th Semester students of **Artificial Intellig
 1. **Dashboard:** View high-level statistics and recent monitoring data.
    
    <p align="center">
-  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/home%20page.png?token=GHSAT0AAAAAAD6JDZMRPVGYHROLJ7XECYNG2QZ54CA" alt="Results Dashboard" width="1919px">
+  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/home%20page.png" alt="Results Dashboard" width="1919px">
 </p>
 
 2. **Analysis:** Drag and drop an image of a leaf. The system will process it, and if it detects pests, it will automatically send an SMS to the phone number configured in the UI.
 
    <p align="center">
-  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/report%20history.png?token=GHSAT0AAAAAAD6JDZMQFVK3Y67DVXDBGN3W2QZ55IQ" alt="Results Dashboard" width="1919px">
+  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/result.png" alt="Results Dashboard" width="1919px">
 </p>
 
 
 4. **Live Monitor:** Watch as the circular CSS gauges update in real-time with environmental variables.
 
    <p align="center">
-  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/live%20monitoring.png?token=GHSAT0AAAAAAD6JDZMRF5JJDCJTFNPL7NHI2QZ55UQ" alt="Results Dashboard" width="1919px">
+  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/live%20monitoring.png" alt="Results Dashboard" width="1919px">
 </p>
 
 5. **Result:**
    <p align="center">
-  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/result.png?token=GHSAT0AAAAAAD6JDZMQZO44QOYTJM6MSRGA2QZ562Q" alt="Results Dashboard" width="1919px">
+  <img src="https://raw.githubusercontent.com/savin-ss/Smart-Indoort-Plant-Care-System/refs/heads/main/assests/report%20history.png" alt="Results Dashboard" width="1919px">
 </p>
 
 ---
